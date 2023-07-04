@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seanmk011289
-- 👀 Designer for a few years and interested in learning some code
-- 🌱 Currently learning React
-- 📫 Email: seanmk011289@gmail.com
+- Senior Designer/(maybe)Junior Developer
+- ALL THINGS JS
+- Email: seanmk011289@gmail.com
 
 <!---
 seanmk011289/seanmk011289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
